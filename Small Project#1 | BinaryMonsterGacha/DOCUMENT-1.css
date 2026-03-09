@@ -1,0 +1,152 @@
+/* ID */
+
+#bg1 {
+  background-color: black;
+}
+
+#h1 {
+  color: white;
+  font-size: 20px;
+  font-family: "IBM Plex", sans-serif;
+}
+
+#p1 {
+  color: #33FF33;
+  font-size: 50px;
+  font-family: "IBM Plex", sans-serif;
+}
+#p2 {
+  color: #33FF33;
+  font-size: 50px;
+  font-family: "IBM Plex", sans-serif;
+}
+
+#button1{
+  font-family: "IBM Plex", sans-serif;
+  font-size: 25px;
+  color: #33FF33;
+  background-color: black;
+  border-color: #33FF33;
+  width: 500px;
+  height: 50px
+}
+
+#button2{
+  font-family: "IBM Plex", sans-serif;
+  font-size: 25px;
+  color: #33FF33;
+  background-color: black;
+  border-color: #33FF33;
+  width: 500px;
+  height: 50px
+}
+
+#button3{
+  font-family: "IBM Plex", sans-serif;
+  font-size: 25px;
+  color: #33FF33;
+  background-color: black;
+  border-color: #33FF33;
+  width: 500px;
+  height: 200px
+}
+
+
+/* CLASS */
+
+.bg1 {
+  background-color: black;
+}
+
+.textMain {
+  color: white;
+  font-size: 20px;
+  font-family: "IBM Plex", sans-serif;
+}
+
+.lineSpacer {
+  color: white;
+  font-size: 150px;
+  font-family: "IBM Plex", sans-serif;
+}
+
+.textMainGreen {
+  color: #33FF33;
+  font-size: 20px;
+  font-family: "IBM Plex", sans-serif;
+}
+
+.button1{
+  font-family: "IBM Plex", sans-serif;
+  font-size: 25px;
+  color: #33FF33;
+  background-color: black;
+  border-color: #33FF33;
+  height: 50px;
+  text-align: left;
+}
+
+.button2{
+  font-family: "IBM Plex", sans-serif;
+  font-size: 25px;
+  color: #33FF33;
+  background-color: black;
+  border: 2px solid #33FF33;
+  height: 57px;
+  text-align: center;
+}
+
+.button3{
+  font-family: "IBM Plex", sans-serif;
+  font-size: 25px;
+  color: #33FF33;
+  background-color: black;
+  border: 2px solid #33FF33;
+  height: 200px;
+  text-align: center;
+}
+
+.buttonSpace{
+  font-family: "IBM Plex", sans-serif;
+  font-size: 25px;
+  color: #33FF33;
+  background-color: white;
+  border-color: #33FF33;
+  width: 500px;
+  height: 50px;
+  text-align: left;
+}
+
+.textDivOne {
+  color: #33FF33;
+}
+
+.textDivThree {
+  color: #33FF33;
+  font-size: 20px;
+  font-family: "IBM Plex", sans-serif;
+}
+
+
+/* MAIN ELEMENT */
+
+body {
+  font-family: "IBM Plex", sans-serif;
+  font-style: bold;
+  font-size: 25px;
+  color: white;
+  background: black;
+}
+
+h1 {
+  color: white;
+  font-size: 20px;
+  font-family: "IBM Plex", sans-serif;
+}
+
+p {
+  font-family: "IBM Plex", sans-serif;
+  font-style: bold;
+  font-size: 30px;
+  color: orange;
+}
